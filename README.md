@@ -1,9 +1,7 @@
 # xhz-tinymce
 
-[![npm version](https://img.shields.io/npm/v/@packy-tang/vue-tinymce.svg)](https://www.npmjs.com/package/@packy-tang/vue-tinymce)
 ![vue](https://img.shields.io/github/package-json/dependency-version/lpreterite/vue-tinymce/vue)
 ![tinymce](https://img.shields.io/github/package-json/dependency-version/lpreterite/vue-tinymce/tinymce)
-[![NPM downloads](http://img.shields.io/npm/dm/@packy-tang/vue-tinymce.svg)](https://www.npmjs.com/package/@packy-tang/vue-tinymce)
 
 提供给 xhz 前端开发者使用的 TinyMCE 组件（注：仅适用于vue-cli构建的项目）
 
