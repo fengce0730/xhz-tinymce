@@ -4,6 +4,7 @@
   "version": "1.0.5",
   "author": "fengxiansen96",
   "license": "MIT",
+  "keywords": ["vue","tinymce"],
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
